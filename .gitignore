@@ -2,6 +2,8 @@
 2 Lab/reddit_subreddits.txt
 2 Lab/vk_groups.txt
 
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
